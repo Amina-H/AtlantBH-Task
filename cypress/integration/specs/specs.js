@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 
-Describe('E-commerce API', function() {
+describe('E-commerce API', function() {
     let testData;
   
     this.beforeEach(function() {
